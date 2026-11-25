@@ -1,0 +1,20 @@
+# Compiled files
+*.class
+target/
+bin/
+out/
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+
+# Secrets and logs
+.env
+*.log
+
+# OS files
+Thumbs.db
